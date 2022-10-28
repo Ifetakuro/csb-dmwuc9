@@ -1,0 +1,2 @@
+(this["webpackJsonprandom-user"]=this["webpackJsonprandom-user"]||[]).push([[10],{85:function(n,t,s){"use strict";s.r(t),s.d(t,"default",(function(){return r}));s(0);var c=s.p+"static/media/404.05fc24ad.svg",e=s(3);function r(){return Object(e.jsxs)("div",{className:"not-found container",children:[Object(e.jsx)("h1",{children:"Not Found"}),Object(e.jsx)("img",{src:c,alt:"not found"})]})}}}]);
+//# sourceMappingURL=10.f0e58f20.chunk.js.map
